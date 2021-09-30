@@ -1,0 +1,17 @@
+ai_app_module_type: dc_classification_plugin
+app_data_dir: /home/AzureUser/deep_learning_studio_3.0_linux/program_data/conda_envs/dc_classification_plugin
+batch_size: 32
+dataset_dir: /home/AzureUser/deep_learning_studio_3.0_linux/user_data/data/1/datasets/brats_dataset_preprocessed
+dataset_source: Upload
+dataset_type: private
+input_crop: 32
+input_pad: 4
+lr: 0.01
+lr_factor: 0.75
+momentum: 0.9
+net_name: googlenet
+num_of_epochs: 100
+optimizer: NAG
+pretrained: Not Pretrained
+project_type: AI_APP_MODULE
+wd: 0.0001
